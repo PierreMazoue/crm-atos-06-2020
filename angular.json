@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "crm-atos-sophia-juin"
+    }
+  },
+  "defaultProject": "crm-atos-sophia-juin",
+  "cli": {
+    "analytics": false
+  }
 }
