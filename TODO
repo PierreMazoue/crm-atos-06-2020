@@ -4,3 +4,16 @@
 ☐ L'interpolation
 ☐ encapsulation emulated
 ☐ methodologie of
+
+☐ TP partie Client
+  ☐ enum (ACTIVE INACTIVE)
+  ☐ interface ClientI (voir db.json)
+  ☐ model Client
+  ☐ ClientsService
+  ☐ PageListClientsComponent
+    ☐ utiliser le template TemplateOneColComponent
+    ☐ colone du tableau (name, tva, caHt, caTTc, state)
+    ☐ un nouveau pipe pour la colone caTTC
+    ☐ utiliser la meme directive
+    ☐ utiliser soit TableLightComponent soit TableDarkComponent
+    ☐ dans TableLightComponent.scss et dans TableDarkComponent.scss ajouter les class state-active et state-inactive qui prendront respectivement les background $color-success et $color-error
