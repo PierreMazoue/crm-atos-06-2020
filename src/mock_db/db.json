@@ -79,6 +79,26 @@
       "client": "Atos",
       "comment": "kjhsdkgf",
       "id": 10
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 3,
+      "tva": 20,
+      "state": "OPTION",
+      "typePresta": "coaching",
+      "client": "Atos",
+      "comment": "toto",
+      "id": 11
+    },
+    {
+      "tjmHt": 1200,
+      "nbJours": 1,
+      "tva": 20,
+      "state": "CONFIRMED",
+      "typePresta": "Formation",
+      "client": "Atos",
+      "comment": "toto2",
+      "id": 12
     }
   ],
   "clients": [
@@ -97,6 +117,14 @@
       "name": "Modis",
       "ca": 120000,
       "comment": "un comment pour client modis"
+    },
+    {
+      "name": "Orange",
+      "tva": 20,
+      "ca": 1200,
+      "state": "ACTIVE",
+      "comment": "toto",
+      "id": 3
     }
   ]
 }
